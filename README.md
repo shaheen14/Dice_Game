@@ -8,3 +8,6 @@
 
 
 <img src="https://github.com/shaheen14/Dice_Game/blob/main/Capture1.JPG"></img>
+<img src="https://github.com/shaheen14/Dice_Game/blob/main/Capture3.JPG"></img>
+<img src="https://github.com/shaheen14/Dice_Game/blob/main/Capture2.JPG"></img>
+
